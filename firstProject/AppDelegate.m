@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     NSLog(@"it is a test,i do not known what to do next,and do not known why can not push to the master branch");
+    NSLog(@"why do not commit sucess?");
     return YES;
 }
 
